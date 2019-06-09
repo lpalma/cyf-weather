@@ -13,6 +13,7 @@ class App extends Component {
     return (
       <div className="app">
         <header className="app__header">
+          "Hello CYF"
         </header>
         <main className="app__main">
         </main>
